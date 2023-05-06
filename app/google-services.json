@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "415202969170",
+    "project_id": "onlinequizapp-41164",
+    "storage_bucket": "onlinequizapp-41164.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:415202969170:android:6f1890cafbaeb6666b018b",
+        "android_client_info": {
+          "package_name": "com.example.task4_onlineexamapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "415202969170-3am3s5qaitkgn6dqpg5f21hap9nbkfdh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.task4_onlineexamapplication",
+            "certificate_hash": "6587cf653201b74ff97caddba45cb99b9b959cd4"
+          }
+        },
+        {
+          "client_id": "415202969170-f4qklkgu63bgclej8m49vae2t04ule3h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzWHl2n_RoQfnqyzUvDyxVC1rPmxHe1-w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "415202969170-f4qklkgu63bgclej8m49vae2t04ule3h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
